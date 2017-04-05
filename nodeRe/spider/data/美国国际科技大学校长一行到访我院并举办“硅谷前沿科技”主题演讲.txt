@@ -1,0 +1,5 @@
+       4月14日上午，美国国际科技大学（International Technological University，ITU）校长Yau-Gene Chan先生、电子与计算机工程系系主任May Huang教授、嵌入式教研室主任Karl Wang教授、生物电子教研室主任Dominik Schmidt教授、数字艺术系主任Wes Takahashi先生和大学关系合作专员Heyi Yuan女士到我院进行交流访问。
+       Karl Wang教授和Dominik Schmidt教授作了题为“Research and Development Presentation”的报告，报告介绍了美国国际科技大学在嵌入式系统、人工智能、生物电子等方面的研究成果，分享了智能抄表系统、智能家居系统和三维空间重构系统的设计理念与思路。美国国际科技大学的几位教授，均来自硅谷工业界，他们与到场的同学分享了各自的职业规划和成长经历。座谈会气氛融洽活跃，开拓了同学们的视野，增加了对硅谷工业界的认知。
+      
+       演讲后，我院院长张兴教授、副院长吴中海教授、微纳电子与嵌入式系统领域学科组副组长于敦山教授就双方项目合作研究、人才联合培养等事宜交换了意见。
+
